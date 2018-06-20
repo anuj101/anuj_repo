@@ -1,5 +1,5 @@
 #include <stdio.h>
-int your_strlen(char *s)
+int exp_strlen(char *s)
 {
  char *p = s;
  while (*p)
